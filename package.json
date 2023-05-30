@@ -9,7 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@prisma/client": "4.14.1",
+    "@prisma/client": "^4.15.0",
+    "@prisma/studio": "^0.484.0",
     "@tailwindcss/forms": "^0.5.3",
     "@types/node": "18.14.2",
     "@types/react": "18.0.28",
